@@ -1,12 +1,10 @@
 
 # Restaurant Website Template (Anita's Kitchen)
 
-#### A landing page template for a restaurant, Anita's Kitchen. It employs the use of HTML, CSS and Javascript to build it. 14-08-2017
-
-#### By **Mary Ng'ang'a**
+#### A landing page template for a restaurant, Irie's Kitchen. It employs the use of HTML, CSS and Javascript to build it. 
 
 ## Description
-The website, a landing page for Anita's Kitchen's is divided into the following sections:
+The website, a landing page for Irie's Kitchen's is divided into the following sections:
 
 * A header section with the logo, slogan and a modal.
 * A meal type section.
@@ -19,12 +17,7 @@ The website, a landing page for Anita's Kitchen's is divided into the following 
 The website is filled with dummy text where needed. 
 
 
-## Setup/Installation Requirements
-
-To view the website, 
-* click [Anita's Website](https://marynganga.github.io/Restaurant-Website-Template/)
-or 
-* copy the link https://marynganga.github.io/Restaurant-Website-Template/ paste it to your browser and load it.  
+## Setup/Installation Requirements 
 
 
 ## Known Bugs
@@ -41,5 +34,3 @@ There are no known bugs.
 
 ### License
 
-
-MIT (c) [Mary Ng'ang'a](https://github.com/marynganga) 
