@@ -32,5 +32,5 @@ There are no known bugs.
 * JAVASCRIPT
 * jQUERY
 
-### License
+
 
