@@ -1,5 +1,5 @@
 
-# Restaurant Website Template (Anita's Kitchen)
+# Restaurant Website Template (Irie's Kitchen)
 
 #### A landing page template for a restaurant, Irie's Kitchen. It employs the use of HTML, CSS and Javascript to build it. 
 
